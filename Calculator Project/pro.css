@@ -1,0 +1,60 @@
+.text-center {
+    text-align: center;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.m-w-20 {
+
+    max-width: 30vw;
+}
+
+ .html , body  {
+
+   
+.roboto-<uniquifier> {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.button {
+    width: 66PX;
+    padding: 15px;
+    margin:0 3px ;
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+
+
+.row{
+    margin: 8px 0;
+
+}
+
+
+.row input {
+    margin: 0;
+    padding:10px;
+    border-color: black;
+    border-radius: 5px;
+    
+}
